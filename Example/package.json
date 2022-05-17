@@ -10,7 +10,7 @@
     "react": "16.3.1",
     "react-native": "0.55.4",
     "aliyun-oss-react-native": "^1.0.0-alpha.6",
-    "react-native-image-picker": "^0.26.10"
+    "react-native-image-picker": "^4.8.3"
   },
   "devDependencies": {
     "babel-jest": "23.2.0",
