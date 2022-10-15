@@ -1,6 +1,6 @@
 {
   "name": "@laserpecker/aliyun-oss-react-native",
-  "version": "1.0.0-alpha.8",
+  "version": "1.0.0-alpha.9",
   "description": "React Native SDK for aliyun object storage service",
   "main": "index.js",
   "scripts": {
